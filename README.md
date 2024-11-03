@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gianpierre Velasquez
 - 👀 I’m interested in FrontEnd Developing, Hacking and IA Learning,
-- 🌱 I’m currently learning front-End frameworks
 - 📫 How to reach me gianpierre.velasquez22@gmail.com
 
 <!---
